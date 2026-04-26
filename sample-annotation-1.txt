@@ -1,0 +1,14 @@
+Text: The delivery was fast and the packaging was good.
+Label: Positive sentiment
+
+Text: The service was slow but the staff were friendly.
+Label: Mixed sentiment
+
+Text: I am not happy with the product quality.
+Label: Negative sentiment
+
+Text: The app is easy to use and very helpful.
+Label: Positive sentiment
+
+Text: It took too long to receive support.
+Label: Negative sentiment
