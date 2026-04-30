@@ -1,3 +1,5 @@
+![Banner](./ChatGPT Apr 30,2026,07_25_48 AM.png)
+
 # Hi, I'm Lizel 👋
 
 ## About Me
