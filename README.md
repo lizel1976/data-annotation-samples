@@ -1,4 +1,4 @@
-![Banner](./ChatGPT Apr 30,2026,07_25_48 AM.png)
+![Banner](./https://github.com/lizel1976/data-annotation-samples/blob/main/ChatGPT%20Image%20Apr%2030%2C%202026%2C%2007_25_48%20AM.png)
 
 # Hi, I'm Lizel 👋
 
