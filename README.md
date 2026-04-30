@@ -1,4 +1,4 @@
-![Banner](./banner .png)
+![Banner](./Lizel1976 banner .png)
 
 # Hi, I'm Lizel 👋
 
