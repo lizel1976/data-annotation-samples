@@ -1,4 +1,4 @@
-
+![Banner](Lizel1976.png)
 
 # Hi, I'm Lizel 👋
 
